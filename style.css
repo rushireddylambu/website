@@ -23,6 +23,7 @@
     width:250px;
     height:250px;
     margin-top:30px;
+    
 }
 .button{
     background-color: #4b6cc1;
@@ -40,6 +41,8 @@
 }
 .para{
     color:#9aa5b1;
+    margin-bottom:50px;
+   padding-top: 20px;
 }
 .bg-container{
     background-color: #323f4b;
@@ -58,7 +61,8 @@
     width:350px;
     height:350px;
      margin-top:30px;
-      margin-right:50px;
+    margin-bottom:30px ;
+    margin-right:50px;
 }
 .heading{
     color:#cced00;
@@ -70,11 +74,12 @@
 .side-heading{
     color:white;
     margin-left:20px;
-    margin-bottom:20px;
+    
+    margin-top: 20px;
 }
 .para{
     color:white;
-    padding:20px;
+    padding:10px;
     
 }
 .card-about{
